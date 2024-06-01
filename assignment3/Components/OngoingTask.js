@@ -2,21 +2,21 @@ import React from "react";
 import { View, Text, StyleSheet } from "react-native";
 
 const tasks = [
-  { key: 1, name: 'Mobile App Development' },
-  { key: 2, name: 'Web Development' },
-  { key: 3, name: 'Pushups' },
-  { key: 4, name: 'Grocery Shopping' },
-  { key: 5, name: 'Read a Book' },
-  { key: 6, name: 'Clean the House' },
-  { key: 7, name: 'Cook Dinner' },
-  { key: 8, name: 'Laundry' },
+  { key: 1, name: 'Practice coding' },
+  { key: 2, name: 'Cook' },
+  { key: 3, name: 'Excercise' },
+  { key: 4, name: 'Read my Bible' },
+  { key: 5, name: 'Go through my emails' },
+  { key: 6, name: 'Clean my room' },
+  { key: 7, name: 'Take a walk' },
+  { key: 8, name: 'Do my laundry' },
   { key: 9, name: 'Water the Plants' },
   { key: 10, name: 'Yoga Session' },
   { key: 11, name: 'Email Correspondence' },
   { key: 12, name: 'Plan a Trip' },
   { key: 13, name: 'Budget Review' },
   { key: 14, name: 'Workout Routine' },
-  { key: 15, name: 'Write a Blog Post' },
+  { key: 15, name: 'Try a new project' },
 ];
 
 export default function OngoingTasks() {
