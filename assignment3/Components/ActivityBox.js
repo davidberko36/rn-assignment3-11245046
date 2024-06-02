@@ -1,6 +1,3 @@
-
-
-
 import { View, Text, StyleSheet, Image, FlatList } from "react-native";
 
 const categories = [
